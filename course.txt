@@ -1,0 +1,8 @@
+csce101: Introduction to Computer Concepts
+phil213: Communicating Moral Issues
+act222: Introduction to Accounting Principles
+csce204: Program Design and Development
+pedu200: Yoga
+itec245: Introduction to Networking
+itec242: Business Communication
+csce205: Business Applications in Programing
